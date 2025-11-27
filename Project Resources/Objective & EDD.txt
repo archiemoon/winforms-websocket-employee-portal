@@ -1,0 +1,77 @@
+Objectives
+
+Create the algorithm to generate the daily rota.
+
+•	The algorithm will generate the complete rota where lifeguards contracted shifts are loaded in from the database. 
+•	Allow them to add more rows with a specified time for any on the day changes.
+•	Their positions will be randomly selected from the list of allowed numbers. 
+•	The algorithm will ensure that the rota doesn’t include duplicate positions where possible.
+•	As well as ensuring that each lifeguard has a maximum of three positions in a row before an ‘off’.
+
+
+Make a secure Login System (Coding Done)
+
+•	Users will enter their username and password.
+•	The password will then be hashed using my algorithm. 
+•	The user will have 5 total incorrect attempts before they are locked out, to prevent brute force attacks.
+
+
+Password Hashing (Coding Done)
+
+•	The password will be hashed using my algorithm (View ‘Systems’ heading for more info).
+•	To verify the password, it will be hashed and compared to the password stored in the database, if the two match the user can login.
+•	The algorithm will also include a salt to ensure that there can be no duplication issues in the database.
+
+
+Create a group messaging system using WebSockets that all users can use. (Coding Done)
+
+•	Implement an indicator light indicating whether they are connected.
+•	Can press button to attempt reconnect.
+•	 Any error messages will also be displayed to the user.
+
+•	Users that are logged in will be able to send real time messages to any other logged in user.
+•	All sent messages will be stored in the database.
+•	To reduce load times; I will only load the previous 10 messages, when a new user logs in, but allow the user to load another previous 10 messages when and as they need to.
+
+
+Allow for Shift management where managers can upload, and lifeguards can pick up shifts
+
+•	Managers will be able to create a post which contains the information about the shift such as the time and the location.
+•	This will be stored in the database with a blank field for the name of someone who picks that shift up. 
+•	Only shifts that haven’t been taken will be displayed meaning they can pick up any shift they see, and their name will be added to the database. 
+•	I will also use this table of the database in the rota generator, so it automatically adds anyone that has picked up a shift for that day.
+
+
+An Account management page where users can edit their details. (Coding Done)
+
+•	Allows users to manage their profile such as passwords and usernames. 
+•	In order to edit their password, they will be required to enter their current password.
+•	Any changes they make will be updated in the database. 
+•	All inputs will be checked to ensure they are in the correct format for the database.
+
+
+A simple Home Page with ‘widgets’ that show key information to the user. 
+
+•	The main page that will allow users to see small widgets of info which can be expanded into a full screen page of the widget. 
+•	It will include widgets such as what shifts they have picked up, their previous pay slips, and more.
+
+
+Allow for users with admin permissions to manipulate the database.
+
+•	Users with admin permissions will be able to access a further range of tools to add and remove users as well as edit and update information.
+•	They can also add new contracted shifts and view the database.
+•	The permissions of users will be assigned at creation of the user.
+
+
+
+Entitiy Description Diagrams
+
+EmployeeDetails (*EmployeeID*, FirstName, Surname, Username, Password, Salt, Email, PhoneNumber, Permission)
+
+Messages (*EmployeeID*, *MessageID*, Message)
+
+ContractedShifts (*EmployeeID*, Hours, Day, Time)
+
+OvertimeShifts (*EmployeeID*, Hours, Day, Time)
+
+Payslips (*EmployeeID*, Date, Position, Template, Site, HoursWorked)

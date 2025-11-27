@@ -1,0 +1,55 @@
+NEA Project
+
+Matrix Maker and Shift Manager ( Timesheet manager )
+
+
+
+A database of all employees and phone numbers
+A database of what contracted employees work on what days 
+A database for each individual day which can allow people to be added and removed
+A database which allows for users to submit timesheets 
+
+Creates matrixes 
+Has a data base of the contracted people on each shift 
+At the start a database of each people contracted on each day will have to be made 
+Creates a matrix for each day automatically 
+This will then be loaded when a matrix is made for each day and they will be put onto the matrix 
+
+Allows to remove people and will auto reassemble the matrix 
+When a person is removed the matrix automatically reassembles itself 
+If someone is removed the matrix will run the algorithm to remake the matrix giving priority to major 
+Positions and will notify if a pool will have to be closed or numbers will have to be capped
+Allowing the day to run smoothly
+
+Can add people to the matrix 
+Can add someone on the day and they will be slotted in and the matrix 
+They can enter a name and a time into the database and this person will be added to the matrix 
+readjusted around them 
+Which will then readjust automatically 
+
+Allows you to send out shift requests via text message 
+A manager can sign in and send out a message requesting a shift to be 
+A manager can select employees to send an automated message too asking if they are 
+Available to work a shift 
+picked up to all or select employees
+
+Allows users to pick up shifts from the ones available 
+Employees can see a spreadsheet of available shifts and pick up ones 
+Employees will be able to see a list of available shifts for any given day and they can pick one up 
+This will then notify the managers and will also add them to the data base for that day 
+They will then be added to the matrix data base for that day and the manager will be 
+Prompted to update the matrix
+A new matrix will then be made when the manager next updates the matrix 
+
+Pay Calculator 
+Allows users to calculate their pay based on their pay and their hours which can be logged 
+A simple mathematical algorithm to calculate estimated monthly pay 
+Doesn’t store any data about pay on any database 
+As they work or they can input a chunk at the end of the month
+_________________________________________________________________________________________________
+
+Allows managers to sign in and see what timesheets have been filled in for that day which they can check
+Managers can sign in and see what timesheets need signing they can then check if they were on the matrix 
+Employees can submit their timesheet at the end of their shift which will then be added to a data base 
+These can be viewed by the manager and can be signed off which will notify the employee 
+And sign off the timesheet accordingly 

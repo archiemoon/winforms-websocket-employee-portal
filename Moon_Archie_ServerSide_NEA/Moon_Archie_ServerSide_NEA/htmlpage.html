@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html>
+<body>
+    <script>
+        //when the listner is triggered by the ReceiveMessage function on the websocket server..
+        connection.on("ReceiveMessage", (message) => {
+            //.. a list item is created containing the message
+            const li = document.createElement("li");
+            li.textContent = message;
+            //.. this adds the new list element to the message list allowing it to be displayed to the user
+            document.getElementById("messagesList").appendChild(li);
+        });
+
+        //starts the signalR connecton and displayes any errors in the connection process
+        connection.start().catch((error) => console.error(error.toString()));
+
+        // creates a listner for when the send message button is pressed
+        document.getElementById("sendButton").addEventListener("click", () => {
+            //stores the message inputed
+            const message = document.getElementById("messageInput").value;
+            //resets the message input so its ready for the next message
+            document.getElementById("messageInput").value = "";
+            //invokes the send message function and catches and outputs any errors
+            connection.invoke("SendMessage", message).catch((error) => console.error(error));
+        });
+    </script>
+</body>
+</html>

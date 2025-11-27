@@ -1,0 +1,144 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+/// <summary>
+/// need to set priority positions so make eg (1, 5, 6 ,8) a must have and if not possible create a new line showing it 
+/// </summary>
+class Program
+{
+    static void Main(string[] args)
+    {
+        Console.Write("Enter the number of times to generate the 2D array: ");
+        int numTimes = int.Parse(Console.ReadLine());
+
+        Console.Write("Enter the length of the generated string: ");
+        int stringLength = int.Parse(Console.ReadLine());
+
+        List<string> generatedStrings = new List<string>();
+
+        for (int i = 0; i < numTimes; i++)
+        {
+            string generatedString = GenerateString(stringLength);
+            if (!HasDuplicate(generatedStrings, generatedString))
+            {
+                generatedStrings.Add(generatedString);
+            }
+            else
+            {
+                i--; // Regenerate the string if it has duplicates
+            }
+        }
+
+        int[][] array = new int[generatedStrings.Count][];
+
+        for (int i = 0; i < generatedStrings.Count; i++)
+        {
+            List<int> numbers = new List<int>();
+            string str = generatedStrings[i];
+
+            for (int j = 0; j < str.Length; j++)
+            {
+                int num = int.Parse(str[j].ToString());
+
+                if (j > 2 && num != 0 && numbers[j - 1] != 0 && numbers[j - 2] != 0 && numbers[j - 3] != 0)
+                {
+                    numbers.Add(0);
+                }
+                else
+                {
+                    numbers.Add(num);
+                }
+            }
+
+            array[i] = numbers.ToArray();
+        }
+
+        // Print the generated 2D array
+        for (int i = 0; i < array.Length; i++)
+        {
+            for (int j = 0; j < array[i].Length; j++)
+            {
+                Console.Write(array[i][j] + " ");
+            }
+            Console.WriteLine();
+        }
+
+        Console.ReadLine();
+    }
+
+    static string GenerateString(int length)
+    {
+        Random random = new Random();
+        List<int> numbers = new List<int>();
+
+        for (int i = 0; i < length; i++)
+        {
+            int num;
+            do
+            {
+                num = random.Next(10);
+            } while (i > 2 && num != 0 && numbers[i - 1] != 0 && numbers[i - 2] != 0 && numbers[i - 3] != 0);
+
+            numbers.Add(num);
+        }
+
+        return string.Join("", numbers);
+    }
+
+    static bool HasDuplicate(List<string> strings, string newString)
+    {
+        foreach (string str in strings)
+        {
+            if (HasSameNumberAtSameIndex(str, newString))
+            {
+                return true;
+            }
+        }
+
+        return false;
+    }
+
+    static bool HasSameNumberAtSameIndex(string str1, string str2)
+    {
+        for (int i = 0; i < str1.Length; i++)
+        {
+            if (str1[i] != '0' && str2[i] != '0' && str1[i] == str2[i])
+            {
+                return true;
+            }
+        }
+
+        return false;
+    }
+}
+
+
+18601
+36805
+54068
+81056
+60582
+
+positions needed:
+2 at position 0
+4 at position 0
+9 at position 0
+2 at position 1
+3 at position 1
+5 at position 1
+9 at position 1
+1 at position 2
+2 at position 2
+3 at position 2
+4 at position 2
+9 at position 2
+1 at position 3
+2 at position 3
+3 at position 3
+4 at position 3
+9 at position 3
+1 at position 4
+3 at position 4
+4 at position 4
+9 at position 4

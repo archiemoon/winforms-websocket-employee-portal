@@ -1,0 +1,24 @@
+Matrix Algorithm and GUI Output 
+web
+winforms
+
+Real time Fire-Store database
+only needed if winforms used for comms
+
+Login System
+web
+winforms
+
+Messaging system
+react
+need to check web
+winforms if used firestore
+
+Shift and Pay management
+web 
+winforms
+
+Account management
+web 
+winforms 
+ 

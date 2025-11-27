@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Moon_Archie_ServerSide_NEA.props" />
+</Project>

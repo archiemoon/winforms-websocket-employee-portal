@@ -1,0 +1,36 @@
+Useful Links 
+
+How to set up twilio in c#:
+https://www.twilio.com/docs/sms/quickstart/csharp-dotnet-framework
+
+twilio dashboard:
+https://console.twilio.com/?frameUrl=/console
+
+mailjet dashboard:
+https://app.mailjet.com/dashboard
+
+list of public api's:
+https://github.com/public-apis/public-apis#cloud-storage--file-sharing
+
+W3 Schools CSS:
+https://www.w3schools.com/Css/
+
+C# Message Sent Code Snippit:
+//TextBox.Text = "";
+//const string accountSid = "AC8d6782624123e5372c78e3520b40794c";
+//const string authToken = "86fdf119d5fa033c293858348a77e4c8";
+
+//TwilioClient.Init(accountSid, authToken);
+
+//var message = MessageResource.Create(
+//    body: TextBox.Text,
+//    from: new Twilio.Types.PhoneNumber("+12545275771"),
+//    to: new Twilio.Types.PhoneNumber("+447709926691")
+//);
+//Console.WriteLine(message.Sid);
+
+Twilio FireStore Extension:
+https://extensions.dev/extensions/twilio/send-message
+
+FireBase DB Console:
+https://console.firebase.google.com/project/communicationfbdb/database/communicationfbdb-default-rtdb/data

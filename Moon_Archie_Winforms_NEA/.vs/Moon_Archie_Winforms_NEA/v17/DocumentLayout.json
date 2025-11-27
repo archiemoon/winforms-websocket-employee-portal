@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\NEA 2024\\VS Projects\\Moon_Archie_Winforms_NEA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C37FE7E7-2012-4869-93BE-7F92CD14D869}|Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA.csproj|e:\\nea 2024\\vs projects\\moon_archie_winforms_nea\\moon_archie_winforms_nea\\shifts_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C37FE7E7-2012-4869-93BE-7F92CD14D869}|Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA.csproj|solutionrelative:moon_archie_winforms_nea\\shifts_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37FE7E7-2012-4869-93BE-7F92CD14D869}|Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA.csproj|E:\\NEA 2024\\VS Projects\\Moon_Archie_Winforms_NEA\\moon_archie_winforms_nea\\shifts_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C37FE7E7-2012-4869-93BE-7F92CD14D869}|Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA.csproj|solutionrelative:moon_archie_winforms_nea\\shifts_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37FE7E7-2012-4869-93BE-7F92CD14D869}|Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA.csproj|e:\\nea 2024\\vs projects\\moon_archie_winforms_nea\\moon_archie_winforms_nea\\matrix_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C37FE7E7-2012-4869-93BE-7F92CD14D869}|Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA.csproj|solutionrelative:moon_archie_winforms_nea\\matrix_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37FE7E7-2012-4869-93BE-7F92CD14D869}|Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA.csproj|E:\\NEA 2024\\VS Projects\\Moon_Archie_Winforms_NEA\\moon_archie_winforms_nea\\matrix_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C37FE7E7-2012-4869-93BE-7F92CD14D869}|Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA.csproj|solutionrelative:moon_archie_winforms_nea\\matrix_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37FE7E7-2012-4869-93BE-7F92CD14D869}|Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA.csproj|E:\\NEA 2024\\VS Projects\\Moon_Archie_Winforms_NEA\\moon_archie_winforms_nea\\upload_shifts_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C37FE7E7-2012-4869-93BE-7F92CD14D869}|Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA.csproj|solutionrelative:moon_archie_winforms_nea\\upload_shifts_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37FE7E7-2012-4869-93BE-7F92CD14D869}|Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA.csproj|E:\\NEA 2024\\VS Projects\\Moon_Archie_Winforms_NEA\\moon_archie_winforms_nea\\remove_user_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C37FE7E7-2012-4869-93BE-7F92CD14D869}|Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA.csproj|solutionrelative:moon_archie_winforms_nea\\remove_user_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37FE7E7-2012-4869-93BE-7F92CD14D869}|Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA.csproj|E:\\NEA 2024\\VS Projects\\Moon_Archie_Winforms_NEA\\moon_archie_winforms_nea\\remove_user_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C37FE7E7-2012-4869-93BE-7F92CD14D869}|Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA.csproj|solutionrelative:moon_archie_winforms_nea\\remove_user_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37FE7E7-2012-4869-93BE-7F92CD14D869}|Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA.csproj|E:\\NEA 2024\\VS Projects\\Moon_Archie_Winforms_NEA\\moon_archie_winforms_nea\\chat_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C37FE7E7-2012-4869-93BE-7F92CD14D869}|Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA.csproj|solutionrelative:moon_archie_winforms_nea\\chat_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37FE7E7-2012-4869-93BE-7F92CD14D869}|Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA.csproj|E:\\NEA 2024\\VS Projects\\Moon_Archie_Winforms_NEA\\moon_archie_winforms_nea\\chat_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C37FE7E7-2012-4869-93BE-7F92CD14D869}|Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA.csproj|solutionrelative:moon_archie_winforms_nea\\chat_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37FE7E7-2012-4869-93BE-7F92CD14D869}|Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA.csproj|E:\\NEA 2024\\VS Projects\\Moon_Archie_Winforms_NEA\\moon_archie_winforms_nea\\account_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C37FE7E7-2012-4869-93BE-7F92CD14D869}|Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA.csproj|solutionrelative:moon_archie_winforms_nea\\account_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37FE7E7-2012-4869-93BE-7F92CD14D869}|Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA.csproj|E:\\NEA 2024\\VS Projects\\Moon_Archie_Winforms_NEA\\moon_archie_winforms_nea\\account_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C37FE7E7-2012-4869-93BE-7F92CD14D869}|Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA.csproj|solutionrelative:moon_archie_winforms_nea\\account_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shifts_Frm.cs",
+              "DocumentMoniker": "E:\\NEA 2024\\VS Projects\\Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA\\Shifts_Frm.cs",
+              "RelativeDocumentMoniker": "Moon_Archie_Winforms_NEA\\Shifts_Frm.cs",
+              "ToolTip": "E:\\NEA 2024\\VS Projects\\Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA\\Shifts_Frm.cs",
+              "RelativeToolTip": "Moon_Archie_Winforms_NEA\\Shifts_Frm.cs",
+              "ViewState": "AgIAAGcAAAAAZmZmZiYywEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T15:48:14.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Upload_Shifts_Frm.cs [Design]",
+              "DocumentMoniker": "E:\\NEA 2024\\VS Projects\\Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA\\Upload_Shifts_Frm.cs",
+              "RelativeDocumentMoniker": "Moon_Archie_Winforms_NEA\\Upload_Shifts_Frm.cs",
+              "ToolTip": "E:\\NEA 2024\\VS Projects\\Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA\\Upload_Shifts_Frm.cs [Design]",
+              "RelativeToolTip": "Moon_Archie_Winforms_NEA\\Upload_Shifts_Frm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-01T21:36:54.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shifts_Frm.cs [Design]",
+              "DocumentMoniker": "E:\\NEA 2024\\VS Projects\\Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA\\Shifts_Frm.cs",
+              "RelativeDocumentMoniker": "Moon_Archie_Winforms_NEA\\Shifts_Frm.cs",
+              "ToolTip": "E:\\NEA 2024\\VS Projects\\Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA\\Shifts_Frm.cs [Design]",
+              "RelativeToolTip": "Moon_Archie_Winforms_NEA\\Shifts_Frm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T21:36:50.783Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Remove_User_Frm.cs [Design]",
+              "DocumentMoniker": "E:\\NEA 2024\\VS Projects\\Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA\\Remove_User_Frm.cs",
+              "RelativeDocumentMoniker": "Moon_Archie_Winforms_NEA\\Remove_User_Frm.cs",
+              "ToolTip": "E:\\NEA 2024\\VS Projects\\Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA\\Remove_User_Frm.cs [Design]",
+              "RelativeToolTip": "Moon_Archie_Winforms_NEA\\Remove_User_Frm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-01T21:30:09.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Chat_Frm.cs",
+              "DocumentMoniker": "E:\\NEA 2024\\VS Projects\\Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA\\Chat_Frm.cs",
+              "RelativeDocumentMoniker": "Moon_Archie_Winforms_NEA\\Chat_Frm.cs",
+              "ToolTip": "E:\\NEA 2024\\VS Projects\\Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA\\Chat_Frm.cs",
+              "RelativeToolTip": "Moon_Archie_Winforms_NEA\\Chat_Frm.cs",
+              "ViewState": "AQIAAKMAAACAmpmZmdkiwNIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-01T20:34:11.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Matrix_Frm.cs [Design]",
+              "DocumentMoniker": "E:\\NEA 2024\\VS Projects\\Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA\\Matrix_Frm.cs",
+              "RelativeDocumentMoniker": "Moon_Archie_Winforms_NEA\\Matrix_Frm.cs",
+              "ToolTip": "E:\\NEA 2024\\VS Projects\\Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA\\Matrix_Frm.cs [Design]",
+              "RelativeToolTip": "Moon_Archie_Winforms_NEA\\Matrix_Frm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T15:41:09.161Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Matrix_Frm.cs",
+              "DocumentMoniker": "E:\\NEA 2024\\VS Projects\\Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA\\Matrix_Frm.cs",
+              "RelativeDocumentMoniker": "Moon_Archie_Winforms_NEA\\Matrix_Frm.cs",
+              "ToolTip": "E:\\NEA 2024\\VS Projects\\Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA\\Matrix_Frm.cs",
+              "RelativeToolTip": "Moon_Archie_Winforms_NEA\\Matrix_Frm.cs",
+              "ViewState": "AgIAANEAAACg//////8xwMsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T15:41:10.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Remove_User_Frm.cs",
+              "DocumentMoniker": "E:\\NEA 2024\\VS Projects\\Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA\\Remove_User_Frm.cs",
+              "RelativeDocumentMoniker": "Moon_Archie_Winforms_NEA\\Remove_User_Frm.cs",
+              "ToolTip": "E:\\NEA 2024\\VS Projects\\Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA\\Remove_User_Frm.cs",
+              "RelativeToolTip": "Moon_Archie_Winforms_NEA\\Remove_User_Frm.cs",
+              "ViewState": "AQIAAAwAAAAA/P/////3vzQAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-01T21:30:11.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Chat_Frm.cs [Design]",
+              "DocumentMoniker": "E:\\NEA 2024\\VS Projects\\Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA\\Chat_Frm.cs",
+              "RelativeDocumentMoniker": "Moon_Archie_Winforms_NEA\\Chat_Frm.cs",
+              "ToolTip": "E:\\NEA 2024\\VS Projects\\Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA\\Chat_Frm.cs [Design]",
+              "RelativeToolTip": "Moon_Archie_Winforms_NEA\\Chat_Frm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-01T20:34:09.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Account_Frm.cs",
+              "DocumentMoniker": "E:\\NEA 2024\\VS Projects\\Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA\\Account_Frm.cs",
+              "RelativeDocumentMoniker": "Moon_Archie_Winforms_NEA\\Account_Frm.cs",
+              "ToolTip": "E:\\NEA 2024\\VS Projects\\Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA\\Account_Frm.cs",
+              "RelativeToolTip": "Moon_Archie_Winforms_NEA\\Account_Frm.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAAAMwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-01T15:35:22.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Account_Frm.cs [Design]",
+              "DocumentMoniker": "E:\\NEA 2024\\VS Projects\\Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA\\Account_Frm.cs",
+              "RelativeDocumentMoniker": "Moon_Archie_Winforms_NEA\\Account_Frm.cs",
+              "ToolTip": "E:\\NEA 2024\\VS Projects\\Moon_Archie_Winforms_NEA\\Moon_Archie_Winforms_NEA\\Account_Frm.cs [Design]",
+              "RelativeToolTip": "Moon_Archie_Winforms_NEA\\Account_Frm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-01T15:35:20.558Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
